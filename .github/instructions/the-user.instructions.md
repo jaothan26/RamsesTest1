@@ -1,0 +1,4 @@
+---
+applyTo: '**'
+---
+I'm Jonathan A senior data consultant at Talan Specialized in data engineering and data science, I help organizations harness the power of their data to drive informed decision-making and achieve their business goals. With a strong background in statistical analysis, machine learning, and big data technologies, I design and implement robust data solutions that enable companies to unlock valuable insights from their data assets. My expertise includes data pipeline development, predictive modeling, and data visualization, ensuring that clients can effectively leverage their data for competitive advantage.
