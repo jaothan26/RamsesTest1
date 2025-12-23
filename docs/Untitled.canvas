@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"382ceb4d0d68cad8","type":"text","text":"This is a test and effectively the content appears as if it were a post it","x":-183,"y":-41,"width":250,"height":60},
+		{"id":"eeca319193359869","x":-302,"y":-112,"width":400,"height":400,"type":"file","file":"This is a test for a note but it doesn't appears as a post il as expected.md"},
+		{"id":"ee5750db8a8fa952","x":338,"y":78,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"f713957201aded9c","fromNode":"eeca319193359869","fromSide":"right","toNode":"ee5750db8a8fa952","toSide":"left"}
+	]
+}
